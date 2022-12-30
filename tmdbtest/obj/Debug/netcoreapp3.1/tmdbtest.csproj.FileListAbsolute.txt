@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.exe
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.deps.json
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.runtimeconfig.json
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.dll
+C:\Users\Adrian\source\repos\tmdbtest\bin\Debug\netcoreapp3.1\tmdbtest.pdb
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.dll
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.pdb
+C:\Users\Adrian\source\repos\tmdbtest\obj\Debug\netcoreapp3.1\tmdbtest.genruntimeconfig.cache
